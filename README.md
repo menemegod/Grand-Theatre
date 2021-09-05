@@ -1,1 +1,1 @@
-# grand-theatre
+# Grand-Theatre
